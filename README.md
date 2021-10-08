@@ -48,6 +48,8 @@ Example:
 }
 ```
 
+Where `roomSize` represents the size of the room, `coords` represents the initial position of the hoover and `patches` are the coordinates of the dirt patches.
+Finally, `instructions` are the the commands that the hoover should execute.
 In each of the arrays inside the input, the first element represents the coordinates on the X axis and the second element represents the coordinates on the Y axis.
 
 ## Output
