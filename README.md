@@ -73,15 +73,16 @@ Send us:
 * Clear instructions on how to read/interpret the test suite
 * The test suite as a table including the executed test cases (it can be a spreadsheet or a word/pdf/markdown document)
 * A detailed report of the bugs that were detected (if any)
+* Optionally, try to build an automated test suite reproducing the bugs that you have detected.
 
 ## Evaluation
 
 The point of the exercise is for us to see: 
 
-- How you approach API testing
 - How you structure your tests
 - How you explain the approach you took and the assumptions you made
-- How you deal with uncertainty and contribute to requirements specification 
+- How you deal with uncertainty and contribute to requirements specification
+- How you approach API testing 
 - How experienced you are at spotting nasty bugs!  
 
 We will especially consider:
